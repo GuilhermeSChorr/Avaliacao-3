@@ -1,4 +1,10 @@
 {
   "name": "Lojadejogos",
-  "slug": "Lojadejogos"
+  "slug": "Lojadejogos",
+   "plugins": [
+    "expo-router"
+    
+  ],
+  "scheme": "telas"
 }
+
